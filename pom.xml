@@ -59,7 +59,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://github.com/kozlow22/module4-continuous-integration</url>
+			<url>https://maven.pkg.github.com/kozlow22/module4-continuous-integration</url>
 		</repository>
 	</distributionManagement>
 
